@@ -17,6 +17,7 @@
     "@capacitor/haptics": "^4.1.0",
     "@capacitor/keyboard": "4.1.1",
     "@capacitor/status-bar": "4.1.1",
+    "firebase": "^9.18.0",
     "pinia": "^2.0.32",
     "sass": "^1.59.3",
     "sass-loader": "^13.2.1",
