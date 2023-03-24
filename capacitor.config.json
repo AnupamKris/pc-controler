@@ -1,0 +1,6 @@
+{
+  "appId": "pc.contr",
+  "appName": "pc-contr",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

@@ -1,0 +1,32 @@
+{
+  "name": "pc-contr",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite --host --port 8100",
+    "build": "vite build",
+    "preview": "vite preview",
+    "ionic:build": "npm run build",
+    "ionic:serve": "npm run dev"
+  },
+  "dependencies": {
+    "@capacitor/android": "4.7.1",
+    "@capacitor/app": "4.1.1",
+    "@capacitor/cli": "4.7.1",
+    "@capacitor/core": "4.7.1",
+    "@capacitor/haptics": "^4.1.0",
+    "@capacitor/keyboard": "4.1.1",
+    "@capacitor/status-bar": "4.1.1",
+    "pinia": "^2.0.32",
+    "sass": "^1.59.3",
+    "sass-loader": "^13.2.1",
+    "socket.io-client": "^4.6.1",
+    "vue": "^3.2.47",
+    "vue-router": "^4.1.6",
+    "vue3-touch-events": "^4.1.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "vite": "^4.1.4"
+  }
+}
